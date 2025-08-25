@@ -18,13 +18,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="Ficus_VST3" targetName="juce_vst3_helper" />
-      <config projectName="Ficus_VST3" targetName="Ficus_VST3" />
-      <config projectName="Ficus_VST3" targetName="Ficus_VST3_VST3" />
-      <config projectName="Ficus_VST3" targetName="Ficus_VST3_rc_lib" />
-      <config projectName="Ficus_VST3" targetName="Ficus_VST3_All" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -33,7 +27,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b588419-370b-4f4a-b41b-07bbeb1e2a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/Ficus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/PluginEditor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/PluginEditor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/PluginProcessor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficus C++/Ficus/PluginProcessor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/.idea/Source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PluginEditor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PluginEditor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PluginProcessor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PluginProcessor.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +67,9 @@
     <setting file="file://$PROJECT_DIR$/Source/PluginEditor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/PluginProcessor.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -69,6 +87,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -88,45 +107,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="CMake Application.Ficus_VST3">
-    <configuration name="Ficus_VST3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ficus_VST3" TARGET_NAME="Ficus_VST3" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ficus_VST3_All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ficus_VST3" TARGET_NAME="Ficus_VST3_All" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ficus_VST3_VST3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ficus_VST3" TARGET_NAME="Ficus_VST3_VST3" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ficus_VST3_rc_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ficus_VST3" TARGET_NAME="Ficus_VST3_rc_lib" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="juce_vst3_helper" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ficus_VST3" TARGET_NAME="juce_vst3_helper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ficus_VST3" RUN_TARGET_NAME="juce_vst3_helper">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.Ficus_VST3" />
-      <item itemvalue="CMake Application.Ficus_VST3_All" />
-      <item itemvalue="CMake Application.Ficus_VST3_rc_lib" />
-      <item itemvalue="CMake Application.Ficus_VST3_VST3" />
-      <item itemvalue="CMake Application.juce_vst3_helper" />
-    </list>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9b588419-370b-4f4a-b41b-07bbeb1e2a18" name="Changes" comment="" />
@@ -143,6 +138,8 @@
       <workItem from="1755824991339" duration="1795000" />
       <workItem from="1755826814858" duration="1886000" />
       <workItem from="1755828733482" duration="1953000" />
+      <workItem from="1756122853983" duration="19000" />
+      <workItem from="1756122906431" duration="60000" />
     </task>
     <servers />
   </component>
