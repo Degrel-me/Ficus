@@ -41,4 +41,5 @@
 *.dwo
 .idea/
 workspace.xml
-
+*.iml
+/.idea
